@@ -9,8 +9,7 @@ import java.util.*;
         C. IDE;
         D. Ano de criação e nome;
         E. Nome, ano de criação e IDE.
-     Por fim, liste as linguagens uma abaixo da outra.
-     */
+     Por fim, liste as linguagens uma abaixo da outra.  */
     // Python (1990), Java (1991) e Ruby (1995)
     // PyCharm, IntelliJ e RubyMine
 

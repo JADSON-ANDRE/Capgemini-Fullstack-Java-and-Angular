@@ -8,7 +8,7 @@ package IntroducaoJava;
        para irem juntos comprar na feira. Porém, muitas vezes Bino acorda muito
        tarde e se atrasa para o encontro com seu amigo.
        Sabendo que Bino leva de 30 a 60 minutos para chegar ao terminal.
-       Diga o atraso máximo de Bino. */
+       Diga o atraso máximo de Bino.  */
 
 import java.util.Scanner;
 import java.io.IOException;

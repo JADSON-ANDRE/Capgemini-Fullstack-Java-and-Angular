@@ -4,8 +4,8 @@ import java.util.*;
 
 /* Faça um programa que simule o lançamento de dados:
         - Lance o dado 100 vezes, armazene e por fim, mostre
-        quantas vezes cada valor foi inserido.
-     */
+        quantas vezes cada valor foi inserido. */
+		
 public class Dados {
         public static void main(String[] args) {
             List<Integer> valores = new ArrayList<>();
