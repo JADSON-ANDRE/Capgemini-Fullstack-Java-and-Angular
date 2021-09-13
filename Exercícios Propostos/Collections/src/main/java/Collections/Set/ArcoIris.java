@@ -7,8 +7,7 @@ package Collections.Set;
         D. Exiba as cores na ordem inversa da que foi informada;
         E. Exiba todas as cores que começam com 'V';
         F. Remova todas as cores que começam do 'V';
-        G. Limpe o conjunto e confira se o mesmo está vazio.
-     */
+        G. Limpe o conjunto e confira se o mesmo está vazio. */
     // VIOLETA, ANIL, AZUL, VERDE, AMARELO, LARANJA e VERMELHO
 
 import java.util.*;

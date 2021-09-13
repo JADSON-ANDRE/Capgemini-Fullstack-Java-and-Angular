@@ -14,7 +14,7 @@ import java.util.*;
         - Exibir a média da população do dicionário;
         - Remover os estados com população menor que 4.000.000;
         - Apagar o dicionário;
-        - Verificar se o dicionário está vazio; */
+        - Verificar se o dicionário está vazio;  */
     // Estados {PE - 9.616.621, AL - 3.351.543, CE - 9.187.103, RN - 3.534.265};
 
 public class NordesteBrasileiro {

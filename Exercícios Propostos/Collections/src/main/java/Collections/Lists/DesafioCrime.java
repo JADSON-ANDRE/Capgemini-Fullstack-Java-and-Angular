@@ -8,7 +8,7 @@ package Collections.Lists;
         5 - Trabalhou com a vítima?
      Se houver 2 respostas positivas, a pessoa é SUSPEITA; se houver 3 ou 4 respostas positivas,
      a pessoa é CUMPLICE; e caso sejam 5 respostas positivas, a pessoa é ASSASSINA. Senão, é
-     INOCENTE.*/
+     INOCENTE. */
 
 import java.util.ArrayList;
 import java.util.Iterator;

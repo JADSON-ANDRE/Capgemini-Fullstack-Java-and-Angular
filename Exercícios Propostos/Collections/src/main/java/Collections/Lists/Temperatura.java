@@ -4,7 +4,7 @@ package Collections.Lists;
     e armazene-os em uma lista.
     Em seguida, calcule a média semestral das temperatura e mostre todas as
     temperaturas acima desta média, e em que mês elas ocorreram.
-    Obs: mostrar o mês por extenso: 1 - Janeiro, 2 - Fevereiro, ...*/
+    Obs: mostrar o mês por extenso: 1 - Janeiro, 2 - Fevereiro, ... */
 
 import java.util.ArrayList;
 import java.util.List;
