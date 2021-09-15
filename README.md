@@ -1,7 +1,9 @@
-# Capgemini-Fullstack-Java-and-Angular
-WORKSPACE - Desafios, exercícios propostos e suas soluções.
+# **Capgemini-Fullstack-Java-and-Angular** <h1>
+
+Exercícios, Desafios e Projetos propostos no Bootcamp da DIO.
 
 
-**Jadson André Pereira da Silva**
 
-**Desenvolvedor - Bacharel em Ciência da Computação**
+
+>*Jadson André Pereira da Silva*   
+>*Desenvolvedor - Bacharel em Ciência da Computação*
