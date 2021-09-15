@@ -5,7 +5,6 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import one.digitalinnovation.GerenciamentoDePessoas.enums.TipoTelefone;
-
 import javax.persistence.*;
 
 @Entity
