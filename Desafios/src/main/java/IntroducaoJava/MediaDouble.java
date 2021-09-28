@@ -12,13 +12,15 @@ import java.util.Scanner;
 public class MediaDouble {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        double a, b, media;
-
+        double a;
+        double b;
+        double media;
+        System.out.println("Entre com dois valores(float): ");
         a = scan.nextDouble();
         b = scan.nextDouble();
         media = (a * 3.5 + b * 7.5)/11;
 
-        System.out.println("Média = %.2f%n" +media);
+        System.out.println("Média = %.2f" +media);
         scan.close();
     }
 }

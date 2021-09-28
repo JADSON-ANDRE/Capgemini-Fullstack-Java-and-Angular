@@ -16,18 +16,18 @@ import java.io.IOException;
 public class DomingoDeManha {
     public static void main(String[] args) throws IOException {
         Scanner ler = new Scanner(System.in);
-
+        System.out.println("Entre com a hora(ex.: 7:45): ");
         while ( ler.hasNextLine() ) {
             String[] relogio = ler.nextLine().split(":");
             int hora = Integer.parseInt(relogio[0]);
             int min = Integer.parseInt(relogio[1]);
 
             switch (hora) {
-                case (7): System.out.println("Atraso máximo: "+min);
-                break;
-                case (8): System.out.println("Atraso máximo: "+(min+60));
-                break;
-                case (9): System.out.println("Atraso máximo: "+(min+120));
+                case (7): System.out.println("Atraso máximo: "+min +" minutos");
+                    break;
+                case (8): System.out.println("Atraso máximo: "+(min+60) +" minutos");
+                    break;
+                case (9): System.out.println("Atraso máximo: "+(min+120) +" minutos");
                 default:  System.out.println("Atraso máximo: 0");
             }
         }

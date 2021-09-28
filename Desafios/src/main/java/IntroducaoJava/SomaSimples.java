@@ -10,7 +10,7 @@ public class SomaSimples {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         int A, B, soma=0;
-
+        System.out.println("Entre com dois inteiros (separados por espaço): ");
         A = ler.nextInt();
         B = ler.nextInt();
 

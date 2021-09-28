@@ -8,6 +8,7 @@ public class DivisoresDeI {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n;
+        System.out.println("Entre com um valor inteiro: ");
         n = scan.nextInt();
 
         for (int i = 1; i < n; i++) {

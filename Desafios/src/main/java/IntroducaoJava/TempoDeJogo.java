@@ -12,6 +12,7 @@ public class TempoDeJogo {
         Scanner ler = new Scanner(System.in);
         int inicio, fim, horas;
 
+        System.out.println("Informe a HORA de início e fim do jogo(separados por espaço): ");
         inicio = ler.nextInt();
         fim = ler.nextInt();
         horas = fim - inicio;
@@ -19,11 +20,11 @@ public class TempoDeJogo {
         if (horas == 0){
             System.out.println("O JOGO DUROU 24 HORAS");
         } else if (horas < 0){
-            System.out.println("O JOGO DUROU "+(horas + 24)+" HORAS");
-        } else if (horas > 0){
-            System.out.println("O JOGO DUROU "+(horas + 24)+" HORAS");
-        } else {
-        System.out.println("O JOGO DUROU "+horas +" HORAS");
+            System.out.println("O JOGO DUROU " +(horas + 24) +" HORAS");
+        } else if (horas > 0 && horas <24){
+            System.out.println("O JOGO DUROU " +(horas) +" HORAS");
+        } else if (horas > 0) {
+            System.out.println("O JOGO DUROU " + (horas + 24) + " HORAS");
         }
     }
 }
